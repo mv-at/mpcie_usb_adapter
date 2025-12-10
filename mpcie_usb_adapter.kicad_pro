@@ -437,7 +437,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "adapter_mpcie_usb.kicad_pro",
+    "filename": "mpcie_usb_adapter.kicad_pro",
     "version": 1
   },
   "net_settings": {
